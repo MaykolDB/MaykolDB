@@ -1,8 +1,9 @@
-### Hi there 👋. My name is Maykol.
+### Hi there 👋 My name is Maykol.
 
 
 
-#![Image of My skills] (https://github.com/MaykolDB/MaykolDB/blob/main/Skills_profile.png)
+#![https://github.com] (https://github.com/MaykolDB/MaykolDB/blob/main/Skills_profile.png)
+
 <!--
 **MaykolDB/MaykolDB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
