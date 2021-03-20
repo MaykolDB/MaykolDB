@@ -2,7 +2,7 @@
 
 
 
-![Image of My skills] (https://github.com/MaykolDB/MaykolDB/blob/main/Skills_profile.png)
+#![Image of My skills] (https://github.com/MaykolDB/MaykolDB/blob/main/Skills_profile.png)
 <!--
 **MaykolDB/MaykolDB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
