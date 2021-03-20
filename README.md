@@ -1,8 +1,9 @@
 ### Hi there 👋 My name is Maykol.
 
+### statistical 
 
-
-#![https://github.com] (https://github.com/MaykolDB/MaykolDB/blob/main/Skills_profile.png)
+## Skills:
+![https://github.com/MaykolDB](https://github.com/MaykolDB/MaykolDB/blob/main/Skills_profile.png)
 
 <!--
 **MaykolDB/MaykolDB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
