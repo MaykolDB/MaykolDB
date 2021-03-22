@@ -1,4 +1,4 @@
-### oi 👋 Meu nome é Maykol.
+## oi 👋 Meu nome é Maykol.
 
 ## Estatístico formado na Universidade de Oriente – Venezuela.
 
@@ -10,7 +10,7 @@ Treinado para aconselhar e responder a perguntas sobre questões relacionadas co
 
 
 ## Contato
-email:maykolbolivar@gmail.com / Tlf: (41) 99239-5287
+email: maykolbolivar@gmail.com / Tlf: (41) 99239-5287
 
 <!--
 **MaykolDB/MaykolDB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
