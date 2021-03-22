@@ -1,9 +1,17 @@
-### Hi there 👋 My name is Maykol.
+### oi 👋 Meu nome é Maykol.
 
-### statistical 
+## Estatístico formado na Universidade de Oriente – Venezuela.
 
-## Skills:
+## QUALIFICAÇÃO PROFISSIONAL:
+# Treinado para aconselhar e responder a perguntas sobre questões relacionadas com as estatísticas. Planejar e direcionar programas de coleta, classificação, análise e interpretação de dados, bem como redigir relatórios sobre questões estatísticas. Capacidade de relacionamento em grupos pesquisa multidisciplinar onde é requerida a aplicação da metodologia estatística.
+
+### Habilidades:
 ![https://github.com/MaykolDB](https://github.com/MaykolDB/MaykolDB/blob/main/Skills_profile.png)
+
+
+## Contato
+# email:maykolbolivar@gmail.com
+# Tlf: (41) 99239-5287
 
 <!--
 **MaykolDB/MaykolDB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
